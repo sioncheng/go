@@ -4,4 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("hello go");
+	fmt.Println("你好UTF8")
 }
