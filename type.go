@@ -4,7 +4,7 @@ import "fmt"
 
 type Person struct {
 	FirstName string;
-	LastName string
+	LastName string;
 }
 
 func(e *Person) Hello() string{
